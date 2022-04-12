@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    
+    scroll-behavior: auto !important;
+}
+
+
+/* card  */
+.cardAltura{
+ height: 200px;
+
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+ #Presentación h1{
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 500;
+     color: rgba(7, 150, 176, 0.849);
+ }
+ #Presentación p{
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 300;
+     color: rgba(7, 150, 176, 0.849);
+ }
+
+ #Destacados{
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 500;
+     color: rgba(7, 150, 176, 0.849);
+ }
+
+ #Contacto h1{
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 500;
+     color: rgba(7, 150, 176, 0.849);
+ }
+
+ .form-label{
+     color: rgba(7, 150, 176, 0.849);
+ }
