@@ -7,7 +7,7 @@ $(document).ready(function(){
     
     $("html, body").animate(
       {
-        scrollTop: $(info).offset().top -70
+        scrollTop: $(info).offset().top -50
       },
       2000
       
